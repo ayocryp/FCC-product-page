@@ -1,2 +1,2 @@
 # FCC-product-page
-## Project done using html,css,Js,bootstrap.
+## landingpage or a product page for apple products
